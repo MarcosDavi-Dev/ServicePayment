@@ -1,3 +1,9 @@
+# Ignorar pasta settings
+.settings/
+
+# Ignorar pasta bin
+.bin/
+
 # Compiled class file
 *.class
 
